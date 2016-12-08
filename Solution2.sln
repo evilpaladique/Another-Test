@@ -8,6 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items 2", "Solution Items 2", "{85FEEAFE-2D07-4359-87DD-39A1305DF6CD}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile2.txt = TextFile2.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
